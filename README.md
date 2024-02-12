@@ -1,13 +1,12 @@
 # Olá, Mundo! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou [Seu Nome], um entusiasta de programação apaixonado por resolver problemas e criar coisas novas com código.
+Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de programação apaixonado por resolver problemas e criar coisas novas com código.
 
 ## Sobre Mim
 
-- 🎓 Estudante de [Seu Curso ou Área de Interesse]
-- 💼 Trabalhando como [Seu Cargo ou Ocupação]
-- 🌱 Atualmente aprendendo [As Tecnologias que Você está Estudando]
-- 💬 Pergunte-me sobre: Python, JavaScript, SQL, entre outros.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Período)
+- 💼 Trabalhando como Estagiário de TI
+- 🌱 Atualmente aprendendo JavaScript e Java.
 
 ## Linguagens e Ferramentas
 
@@ -17,10 +16,10 @@ Bem-vindo ao meu perfil do GitHub! Sou [Seu Nome], um entusiasta de programaçã
 
 ## Projetos Destacados
 
-- [Projeto 1](link_para_o_projeto)
-- [Projeto 2](link_para_o_projeto)
-- [Projeto 3](link_para_o_projeto)
-
+- [Projeto 1] (https://github.com/Gabrellow/cadprev-automation)
+- [Projeto 2]
+- [Projeto 3]
+- 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrellow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
