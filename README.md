@@ -16,9 +16,9 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de progra
 
 ## Projetos Destacados
 
-- [Projeto 1] (https://github.com/Gabrellow/cadprev-automation)
-- [Projeto 2] (https://github.com/Gabrellow/import-automation)
-- [Projeto 3]
+- https://github.com/Gabrellow/cadprev-automation
+- https://github.com/Gabrellow/import-automation
+- https://github.com/Gabrellow/Controle-de-Estoque
   
 ## Estatísticas do GitHub
 
