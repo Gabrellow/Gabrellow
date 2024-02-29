@@ -23,4 +23,5 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de progra
 ## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrellow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![HackerRank Stats](https://img.shields.io/badge/HackerRank-Stats-blue)](https://www.hackerrank.com/g_mello_gdm)
+
+<a href="https://www.urionlinejudge.com.br/judge/pt/users/Gabrellow" target="_blank"> <img src="https://beecrowd.com.br/cj/usuario/badge/Gabrellow/compact" /></a>
