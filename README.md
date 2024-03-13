@@ -6,12 +6,12 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de progra
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Período)
 - 💼 Trabalhando como Estagiário de TI
-- 🌱 Atualmente aprendendo JavaScript e Java.
+- 🌱 Atualmente aprendendo Java e me aprofundando em Python e MySQL.
 
 ## Linguagens e Ferramentas
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## Projetos Destacados
