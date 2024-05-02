@@ -6,8 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de progra
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Período)
 - 💼 Trabalhando como Estagiário de TI
-- 🌱 Atualmente me aprofundando em Java pelo curso back-end Java da DIO.
-- 
+- 📚 Atualmente me aprofundando em Java pelo curso back-end Java da DIO e estudando front-end pela DevMedia.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-mello20/)
 
 ## Linguagens e Ferramentas
