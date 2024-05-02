@@ -1,12 +1,12 @@
 # Olá, Mundo! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de programação apaixonado por resolver problemas e criar coisas novas com código.
+Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de programação apaixonado por resolver problemas.
 
 ## Sobre Mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Período)
 - 💼 Trabalhando como Estagiário de TI
-- 🌱 Atualmente aprendendo Java e me aprofundando em Python e MySQL.
+- 🌱 Atualmente me aprofundando em Java pelo curso back-end Java da DIO.
 
 ## Linguagens e Ferramentas
 
@@ -22,6 +22,4 @@ Bem-vindo ao meu perfil do GitHub! Sou Gabriel de Mello, um entusiasta de progra
   
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrellow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://www.urionlinejudge.com.br/judge/pt/users/Gabrellow" target="_blank"> <img src="https://beecrowd.com.br/cj/usuario/badge/Gabrellow/compact" /></a>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrellow&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
